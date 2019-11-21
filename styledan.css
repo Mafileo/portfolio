@@ -1,0 +1,95 @@
+.containerimage {
+    border-radius: 25px;
+    background-color: #FEE715FF;
+    margin-bottom: 30px;
+}
+
+.descrpition{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.jumbotron {
+    background: linear-gradient( rgba(0, 0, 250, 0.25), rgba(107, 107, 107, 0.45)), url(https://source.unsplash.com/2080x1050/?computer+screen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 50vh;
+}
+
+.jumbotron.homeMain{
+    height: 100vh;
+}
+
+.btn{
+    margin-right: 10px;
+}
+
+.titleH{
+    margin-top: 100px;
+}
+
+.btn-outline-primary {
+    border-color: #FEE715FF !important;
+    color: #FEE715FF !important;
+}
+
+.btn-outline-success{
+    border-color: rgb(0, 0, 0) !important;
+    color: rgb(0, 0, 0) !important;
+}
+
+.projects{
+    border-radius: 25px;
+    background-color: #FEE715FF;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.btn-outline-primary:hover{
+    border-color: transparent;
+    color:black !important;
+    background-color:white !important;
+  }
+  .btn-outline-primary:active{
+    border-color: transparent;
+    color:black !important;
+    background-color:white !important;
+    padding:9px 20px 9px 20px;
+  }
+
+  .btn-outline-success:hover{
+    border-color: transparent;
+    color:rgb(255, 255, 255) !important;
+    background-color:rgb(0, 0, 0) !important;
+  }
+  .btn-outline-success:active{
+    border-color: transparent;
+    color:rgb(255, 255, 255) !important;
+    background-color:rgb(0, 0, 0) !important;
+    padding:9px 20px 9px 20px;
+  }
+  
+
+
+.rightHeader {
+    position: absolute;
+    top: -15px;
+    right: 9px;
+}
+
+
+.namefont {
+    font-family: 'Krona One', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.letter {
+    color: #FEE715FF;
+}
+
+.contact {
+    background-color: rgb(255, 235, 51);
+    color: #101820FF;
+    padding-bottom: 20px;
+}
+
